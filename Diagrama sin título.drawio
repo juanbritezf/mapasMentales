@@ -1,20 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T12:04:15.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fpdRevvaBdvD7eJnj2-g" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T12:56:06.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wWHUWZmKlmoLHXa1ybHP" version="21.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4037" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1784" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=#119732;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1779" target="rkMWaeEtUrmUBE1A2ZXG-1783">
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1784" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=#119732;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1779">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1779" value="Solo elige una opción:&lt;br style=&quot;font-size: 12px;&quot;&gt;1 - ¿Quieres saber más sobre nuestros súper planes de servicio?. Contactar con un comercial&lt;br style=&quot;font-size: 12px;&quot;&gt;2 - ¿Ups, olvidaste tu contraseña? Yo te ayudo.&lt;br style=&quot;font-size: 12px;&quot;&gt;3 - ¿Quieres aprender sobre los distintos medios de pago? ¡Fácil!&lt;br style=&quot;font-size: 12px;&quot;&gt;4 - ¿Te gustaría ver cómo va tu cuenta?&lt;br style=&quot;font-size: 12px;&quot;&gt;5 - ¿Prefieres hablar con un asesor personalizado? No hay problema.&lt;br style=&quot;font-size: 12px;&quot;&gt;6 - Mi Cuenta." style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1780" value="Wally Bot - Caso: Operación 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="10" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1832" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1788" target="rkMWaeEtUrmUBE1A2ZXG-1831">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1779" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solo elige una opción:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;display: inline-block; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot; class=&quot;bx-im-message-command-wrap&quot;&gt;&lt;span style=&quot;border-bottom: 1px dashed rgb(32, 103, 176); cursor: pointer; color: rgb(32, 103, 176); display: inline-block; font-size: 10px;&quot; data-entity=&quot;send&quot; class=&quot;bx-im-message-command&quot;&gt;1 - ¿Quieres saber más sobre nuestros súper planes de servicio?. Contactar con un comercial&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;display: inline-block; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot; class=&quot;bx-im-message-command-wrap&quot;&gt;&lt;span style=&quot;border-bottom: 1px dashed rgb(32, 103, 176); cursor: pointer; color: rgb(32, 103, 176); display: inline-block; font-size: 10px;&quot; data-entity=&quot;send&quot; class=&quot;bx-im-message-command&quot;&gt;2 - ¿Ups, olvidaste tu contraseña? Yo te ayudo.&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;display: inline-block; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot; class=&quot;bx-im-message-command-wrap&quot;&gt;&lt;span style=&quot;border-bottom: 1px dashed rgb(32, 103, 176); cursor: pointer; color: rgb(32, 103, 176); display: inline-block; font-size: 10px;&quot; data-entity=&quot;send&quot; class=&quot;bx-im-message-command&quot;&gt;3 - ¿Quieres aprender sobre los distintos medios de pago? ¡Fácil!&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;display: inline-block; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot; class=&quot;bx-im-message-command-wrap&quot;&gt;&lt;span style=&quot;border-bottom: 1px dashed rgb(32, 103, 176); cursor: pointer; color: rgb(32, 103, 176); display: inline-block; font-size: 10px;&quot; data-entity=&quot;send&quot; class=&quot;bx-im-message-command&quot;&gt;4 - ¿Te gustaría ver cómo va tu cuenta?&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;display: inline-block; color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 10px; background-color: rgb(255, 255, 255);&quot; class=&quot;bx-im-message-command-wrap&quot;&gt;&lt;span style=&quot;border-bottom: 1px dashed rgb(32, 103, 176); cursor: pointer; color: rgb(32, 103, 176); display: inline-block; font-size: 10px;&quot; data-entity=&quot;send&quot; class=&quot;bx-im-message-command&quot;&gt;5 - ¿Prefieres hablar con un asesor personalizado? No hay problema.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="420" y="50" width="440" height="110" as="geometry" />
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1833" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1832">
+          <mxGeometry x="-0.1459" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1780" value="Menu Principal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="20" width="110" height="30" as="geometry" />
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1788" value="¿Contiene algún&lt;br&gt;algún sinonimo?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="565" y="420" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1783" value="Opcion 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="215" height="60" as="geometry" />
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1813" value="Opción 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1823" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1815" target="rkMWaeEtUrmUBE1A2ZXG-1788">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1815" value="¿Quiero saber cual es mi &lt;b&gt;estado de cuenta&lt;/b&gt;?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="330" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1817" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1816" target="rkMWaeEtUrmUBE1A2ZXG-1815">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1816" value="Por favor, describa su consulta en el chat con el mayor detalle posible. Aún mejor si adjunta capturas de pantalla o videos que describan su consulta, en breve se comunicara un asesor ������" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1826" value="&lt;h1&gt;&lt;u&gt;Sinónimos&lt;/u&gt;&lt;/h1&gt;&lt;h4&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Estado de Cuenta.&lt;br&gt;Estado.&lt;br&gt;Cuenta.&lt;br&gt;estado de cuenta.&lt;br&gt;Deuda.&lt;br&gt;Pago.&lt;br&gt;Quiero Pagar.&lt;br&gt;Monto.&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1837" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1827" target="rkMWaeEtUrmUBE1A2ZXG-1836">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1827" value="¿Quiere saber su estado de cuenta?&lt;br&gt;&amp;nbsp;Por favor, ingrese su CI o RUC, sin separador de miles ni espacio, ejemplo: *1234567*" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1829" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rkMWaeEtUrmUBE1A2ZXG-1827">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1830" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1829">
+          <mxGeometry x="0.0869" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1869" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.534;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1831" target="rkMWaeEtUrmUBE1A2ZXG-1867">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1831" value="Enviar a canal Abierto la Conversación." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1839" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1842" target="rkMWaeEtUrmUBE1A2ZXG-1838">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1840" value="Post:&amp;nbsp;https://sistemas.alarmas.com.py/ords/walrusws/wally/estado&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1839">
+          <mxGeometry x="0.0097" y="-2" relative="1" as="geometry">
+            <mxPoint x="-6" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1843" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1836" target="rkMWaeEtUrmUBE1A2ZXG-1842">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1836" value="4879584" style="shape=manualInput;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="285" y="620" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1845" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.756;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.033;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1838" target="rkMWaeEtUrmUBE1A2ZXG-1842">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1846" value="Envio de Estado y ID del File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1845">
+          <mxGeometry x="-0.1743" y="-1" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1838" value="Alarmas BD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="705" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1848" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.426;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1842" target="rkMWaeEtUrmUBE1A2ZXG-1847">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1842" value="Reques a la API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1851" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1847">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1847" value="Señor/a: Su estado de cuenta:&lt;br&gt;{{api-response:v_chat1}}&amp;nbsp;&lt;br&gt;&lt;br&gt;Puede Descargar su Estado accediendo a este link:&amp;nbsp;http://140.238.186.240:8080/wally/file/{{api-response:v_codi_chat1}}&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="820" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1856" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1852" target="rkMWaeEtUrmUBE1A2ZXG-1854">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1859" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1856">
+          <mxGeometry x="-0.0028" y="4" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1865" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1852" target="rkMWaeEtUrmUBE1A2ZXG-1831">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1866" value="No, quiero hablar con un agente." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1865">
+          <mxGeometry x="-0.0521" y="-1" relative="1" as="geometry">
+            <mxPoint x="-92" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1852" value="¿Todo esta correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1030" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1863" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1854" target="rkMWaeEtUrmUBE1A2ZXG-1861">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1854" value="Se desconecta a Wally." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1855" value="Finaliza conversación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1864" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1861" target="rkMWaeEtUrmUBE1A2ZXG-1855">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1861" value="Gracias por comunicarte con Alarmas Py.&amp;nbsp;&lt;br&gt;&lt;br&gt;Si quieres sabes mas acerca de Mi Cuenta, que es la plataforma de Pagos, puede acceder a este link:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;https://micuenta.alarmas.com.py/&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1220" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1867" value="Se desconecta a Wally." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="610" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
