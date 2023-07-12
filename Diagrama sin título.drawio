@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T14:14:08.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3WsYpxxWoPTALWOlzb1e" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:15:05.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GQEJMECsOx8NV8kELAM2" version="21.6.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Opción 5">
-    <mxGraphModel dx="1912" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1817" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1816" target="rkMWaeEtUrmUBE1A2ZXG-1815">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1816" value="Por favor, describa su consulta en el chat con el mayor detalle posible. Aún mejor si adjunta capturas de pantalla o videos que describan su consulta, en breve se comunicara un asesor ������" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1816" value="Por favor, describa su consulta en el chat con el mayor detalle posible. Aún mejor si adjunta capturas de pantalla o videos que describan su consulta, en breve se comunicara un asesor&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1826" value="&lt;h1&gt;&lt;u&gt;Sinónimos&lt;/u&gt;&lt;/h1&gt;&lt;h4&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Estado de Cuenta.&lt;br&gt;Estado.&lt;br&gt;Cuenta.&lt;br&gt;estado de cuenta.&lt;br&gt;Deuda.&lt;br&gt;Pago.&lt;br&gt;Quiero Pagar.&lt;br&gt;Monto.&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -115,8 +115,10 @@
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1847" value="Señor/a: Su estado de cuenta:&lt;br&gt;{{api-response:v_chat1}}&amp;nbsp;&lt;br&gt;&lt;br&gt;Puede Descargar su Estado accediendo a este link:&amp;nbsp;http://140.238.186.240:8080/wally/file/{{api-response:v_codi_chat1}}&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="430" y="860" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1856" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1852" target="rkMWaeEtUrmUBE1A2ZXG-1854">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1856" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1852" target="rkMWaeEtUrmUBE1A2ZXG-1861">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="1110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1859" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" connectable="0" parent="rkMWaeEtUrmUBE1A2ZXG-1856">
           <mxGeometry x="-0.0028" y="4" relative="1" as="geometry">
@@ -135,12 +137,6 @@
         </mxCell>
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1852" value="¿Todo esta correcto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="1050" width="95" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1863" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="rkMWaeEtUrmUBE1A2ZXG-1854" target="rkMWaeEtUrmUBE1A2ZXG-1861">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1854" value="Se desconecta a Wally." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkMWaeEtUrmUBE1A2ZXG-1855" value="Fin" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="970" y="1270" width="90" height="50" as="geometry" />
@@ -167,7 +163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NKthqqK6jw6MWvm4s_tD" name="Opción 6">
-    <mxGraphModel dx="1434" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,9 +299,6 @@
         <mxCell id="N94Nhb8A6DOEMH_TptF1-12" value="¿Te ayudo en algo más?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="180" y="920" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="N94Nhb8A6DOEMH_TptF1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="N94Nhb8A6DOEMH_TptF1-17" target="N94Nhb8A6DOEMH_TptF1-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="N94Nhb8A6DOEMH_TptF1-17" value="Se envía a canal Abierto.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="45" y="1070" width="135" height="60" as="geometry" />
         </mxCell>
@@ -314,14 +307,13 @@
             <mxPoint x="740" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N94Nhb8A6DOEMH_TptF1-21" value="¡Gracias por contactarnos1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="N94Nhb8A6DOEMH_TptF1-21" value="¡Gracias por contactarnos!" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="585" y="935" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N94Nhb8A6DOEMH_TptF1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="N94Nhb8A6DOEMH_TptF1-23" target="H07OoD15zUY4oH7nYX3m-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N94Nhb8A6DOEMH_TptF1-23" value="Se desconecta Wally.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="N94Nhb8A6DOEMH_TptF1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N94Nhb8A6DOEMH_TptF1-17" target="H07OoD15zUY4oH7nYX3m-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1100" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
